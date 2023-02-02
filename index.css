@@ -405,8 +405,14 @@ nav .fa-solid{
     }
     #contact .row{
         padding-left: 5px ;
-        padding-right: 0px ;
+        padding-right: 0px;
     }
    
   
+}
+
+#msg{
+    color: #61b752;
+    margin-top: 15px;
+    display: block;
 }
